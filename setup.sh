@@ -65,5 +65,4 @@ php artisan migrate
 php artisan db:seed
 
 
-echo 'press any key to continue...'
-read line
+echo 'creating fake data...'
